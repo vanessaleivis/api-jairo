@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Torres",
+    "edad": 30,
+    "email": "ana.torres@mail.com",
+    "activo": true
+  },
+  {
+    "id": 3,
+    "nombre": "María Gómez",
+    "edad": 25,
+    "email": "maria.gomez@mail.com",
+    "activo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Jorge Ramírez",
+    "edad": 37,
+    "email": "jorge.ramirez@mail.com",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "Lucía Martínez",
+    "edad": 28,
+    "email": "lucia.martinez@mail.com",
+    "activo": false
+  }
+]

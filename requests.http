@@ -1,0 +1,29 @@
+### Obtener todos los empleados
+GET http://localhost:3000/empleado
+Content-Type: application/json
+
+
+### Obtener un empleado por ID
+GET http://localhost:3000/empleado/3
+Content-Type: application/json
+
+
+### Actualizar un empleado por ID
+PUT http://localhost:3000/empleado/2
+Content-Type: application/json
+
+{
+  "nombre": "Luis Fernández Actualizado",
+  "edad": 43,
+  "activo": true
+}
+
+
+### Eliminar un empleado por ID
+DELETE http://localhost:3000/empleado/2
+Content-Type: application/json
+
+
+### Ruta raíz
+GET http://localhost:3000/
+Content-Type: application/json
